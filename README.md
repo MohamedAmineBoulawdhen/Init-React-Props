@@ -41,10 +41,10 @@ A simple profile page created using React and the concept of props.
 
 1. In the `Profile` component, add inline styles using the `style` property.
 
-## How to run
+## Conclusion
 
-1. Clone the repository
-2. Run `npm install` to install the dependencies
-3. Run `npm start` to start the development server
-4. Open `http://localhost:3000` in your browser to view the profile page
+In this project, I have learned how to create a personalized profile page using React and the concept of props. By using props, I am able to reuse the `Profile` component and pass data to it dynamically. Additionally, I have learned how to define default props, check props with PropTypes, and add inline styles to the component.
+---
+I would like to thank everyone who STARRED ⭐️ this REPOSITORY. Your help is greatly appreciated!
+
 
