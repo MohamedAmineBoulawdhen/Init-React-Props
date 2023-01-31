@@ -46,5 +46,3 @@ A simple profile page created using React and the concept of props.
 In this project, I have learned how to create a personalized profile page using React and the concept of props. By using props, I am able to reuse the `Profile` component and pass data to it dynamically. Additionally, I have learned how to define default props, check props with PropTypes, and add inline styles to the component.
 ---
 I would like to thank everyone who STARRED ⭐️ this REPOSITORY. Your help is greatly appreciated!
-
-
